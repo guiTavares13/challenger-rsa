@@ -1,0 +1,15 @@
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\bin\Debug\net6.0\challenger-rsa.exe
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\bin\Debug\net6.0\challenger-rsa.deps.json
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\bin\Debug\net6.0\challenger-rsa.runtimeconfig.json
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\bin\Debug\net6.0\challenger-rsa.dll
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\bin\Debug\net6.0\challenger-rsa.pdb
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.csproj.AssemblyReference.cache
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.AssemblyInfoInputs.cache
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.AssemblyInfo.cs
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.csproj.CoreCompileInputs.cache
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.dll
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\refint\challenger-rsa.dll
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.pdb
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\challenger-rsa.genruntimeconfig.cache
+C:\Users\guift\source\repos\challenger-rsa\challenger-rsa\obj\Debug\net6.0\ref\challenger-rsa.dll
