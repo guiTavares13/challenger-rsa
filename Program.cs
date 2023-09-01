@@ -6,22 +6,31 @@ namespace challenger_rsa
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
+            bool flag = true;
             int bitLength = 4096;
 
-            BigInteger random = GenerateRandomNumber(bitLength);
-
-            if (IsProbablyPrime(random, 10))
+            do
             {
-                Console.WriteLine("É provavelmente primo.");
-            }
-            else
-            {
-                Console.WriteLine("Não é primo.");
-            }
+                BigInteger random = GenerateRandomNumber(bitLength);
 
-            Console.WriteLine(random.ToString());
+                if (IsProbablyPrime(random, 10))
+                {
+                    Console.WriteLine("É provavelmente primo.");
+                    flag = false;
+                }
+                else
+                {
+                    Console.WriteLine("Não é primo.");
+                }
+
+                Console.WriteLine(random.ToString());
+
+            } while (flag);
+
+            
         }
 
         public static BigInteger GenerateRandomNumber(int bitLength)
